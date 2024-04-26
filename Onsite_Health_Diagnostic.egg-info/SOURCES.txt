@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+Onsite_Health_Diagnostic.egg-info/PKG-INFO
+Onsite_Health_Diagnostic.egg-info/SOURCES.txt
+Onsite_Health_Diagnostic.egg-info/dependency_links.txt
+Onsite_Health_Diagnostic.egg-info/top_level.txt
