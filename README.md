@@ -1,5 +1,5 @@
 ---
-title: Onsite Health Diagnostic
+title: Quick Check Health Diagnostic
 emoji: 💻
 colorFrom: purple
 colorTo: red
@@ -11,8 +11,8 @@ license: mit
 ---
 
 
-# Onsite-Health-Companion (OHC)
-Onsite Health Companion (OHC) is the web application that allows users to predict whether the user has been infected with a menacing disease or not. These diseases can be very dangerous to health if they are not treated properly. The main objective of OHC is to help people predict the disease in case of absence of medical professionals, strikes or any related uncertainties.
+# Quick Check Health Diagnostics (QHD)
+Quick Check Health Diagnostics (QHD) is the web application that allows users to predict whether the user has been infected with a menacing disease or not. These diseases can be very dangerous to health if they are not treated properly. The main objective of QHD is to help people predict the disease in case of absence of medical professionals, strikes or any related uncertainties.
 
 ## Website
 link:
